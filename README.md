@@ -12,4 +12,5 @@ exec crosshair.cfg
 exec radar.cfg
 exec aliases.cfg
 exec keybinds.cfg
+exec spectate.cfg
 ```
