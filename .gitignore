@@ -1,0 +1,8 @@
+*
+!.gitignore
+!userconfig.cfg
+!aliases.cfg
+!keybinds.cfg
+!radar.cfg
+!crosshair.cfg
+!README.md
