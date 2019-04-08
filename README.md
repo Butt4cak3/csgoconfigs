@@ -14,3 +14,5 @@ exec aliases.cfg
 exec keybinds.cfg
 exec spectate.cfg
 ```
+
+\* The default location of the cfg directory is "C:\\Program Files (x86)\\Steam\\steamapps\\common\Counter-Strike Global Offensive\\csgo\\cfg" (Windows) or "~/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg" (Linux).
